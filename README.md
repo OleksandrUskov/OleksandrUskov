@@ -9,7 +9,7 @@ A native **portfolio & risk app for crypto traders** on iPhone, iPad, Mac and Ap
 
 ## 🧰 Open code
 - **[binance-swift-client](https://github.com/OleksandrUskov/binance-swift-client)** — dependency-free async Swift client for Binance public market data (typed, tested)
-- **[swift-ticker-normalizer](https://github.com/OleksandrUskov/swift-ticker-normalizer)** — canonicalize tickers from 11 exchanges to one symbol (zero deps, 22 tests)
+- **[swift-ticker-normalizer](https://github.com/OleksandrUskov/swift-ticker-normalizer)** — canonicalize tickers from 11 exchanges to one symbol (zero deps, 32 tests)
 
 ## 🛠 Stack
 `Swift` · `SwiftUI` · `SwiftData` · `async/await` · REST API integration · CI/CD (GitHub Actions) · AI-orchestrated development
