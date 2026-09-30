@@ -1,10 +1,10 @@
 # Hi, I'm Oleksandr 👋
 
-**AI-augmented solo developer · MSc Computer Science student.**
+**iOS engineer in Warsaw · AI-augmented solo developer · MSc Computer Science student.**
 I build native Apple apps end-to-end — design, code, ship.
 
 ## 🚀 Flagship — Cursaris
-A native **iOS / macOS crypto-futures terminal** I built solo: **11 exchange integrations**, sync & reconciliation, risk/tax analytics. 100+ features, releasing on the App Store.
+A native **portfolio & risk app for crypto traders** on iPhone, iPad, Mac and Apple Watch, built solo: **more than ten exchange integrations** with read-only keys, sync & reconciliation, risk and tax analytics. Pre-release — preparing for the App Store.
 → **[cursaris-showcase](https://github.com/OleksandrUskov/cursaris-showcase)** — architecture & screenshots
 
 ## 🧰 Open code
